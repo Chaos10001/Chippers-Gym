@@ -1,0 +1,53 @@
+.aColor-effect:hover{
+    color: #ff4d29 !important;
+    transition: 0.5s ease !important;
+}
+.navbar-brand{
+    color: #ff4d29 !important;
+}
+.change{
+    color: #ff4d29 !important;
+}
+.bg-cover{
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.slider1{
+    display: block;
+    height: 120vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.529),rgba(0, 0, 0, 0.529)),
+    url('../img/Banner\ 1.jpg');
+}
+.slider2{
+    display: block;
+    height: 120vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.529),rgba(0, 0, 0, 0.529)),
+    url('../img/Banner\ 2.jpg');
+}
+.slider3{
+    display: block;
+    height:120vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.529),rgba(0, 0, 0, 0.529)),
+    url('../img/Banner\ 3.jpg');
+}
+.i-pad:hover{
+    background-color: #ff4d29;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 100%;
+}
+.move{
+    margin-bottom: 4rem;
+    margin-left: -5rem;
+}
+.move2{
+    margin-bottom: 4rem;
+    margin-right: 0rem;
+}
+.cover{
+    height: 8vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
